@@ -38,7 +38,7 @@ The game never ends.😮<br><br>
 ![pong-game](https://user-images.githubusercontent.com/31986394/234957761-be489170-18da-4c0f-a376-f08de521548f.gif)
 
 ## Credits<br>
-This game was built by ME as a fun project to learn Python and Fundamentals.<br><br>
+This game was built by ME as a fun project to learn Python fundamentals.<br><br>
 
 ## Acknowledgements<br>
 Tutorial used to build the game: [Youtube Video](https://www.youtube.com/watch?v=XGf2GcyHPhc&t=2096s)<br><br>
