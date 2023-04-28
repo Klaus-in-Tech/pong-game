@@ -35,7 +35,7 @@ The game is a two-player game. Each player controls a paddle on opposite sides o
 **Player A** controls their paddle with the **_W_** and **_Z_** keys.<br>
 **Player B** controls their paddle with the **_O_** and **_M_** keys.<br>
 The game never ends.😮<br><br>
-![pong-game](https://user-images.githubusercontent.com/31986394/234957761-be489170-18da-4c0f-a376-f08de521548f.gif)
+![pong game](https://user-images.githubusercontent.com/31986394/235089930-b10e8bc0-ff38-45e0-b5ea-63236497d235.gif)
 
 ## Credits<br>
 This game was built by ME as a fun project to learn Python fundamentals.<br><br>
