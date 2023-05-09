@@ -43,5 +43,11 @@ This game was built by ME as a fun project to learn Python fundamentals.<br><br>
 ## Acknowledgements<br>
 Tutorial used to build the game: [Youtube Video](https://www.youtube.com/watch?v=XGf2GcyHPhc&t=2096s)<br><br>
 
-### Feel free to customize this template to fit your specific project needs. <br>
-### Good luck with your Pong game project! 😊
+## Author
+- [Github](https://github.com/Klaus-in-Tech)
+- [LinkedIn](https://www.linkedin.com/in/kakoozaallanklaus/)
+- [Twitter](https://twitter.com/Klaus_in_Tech)
+- [Instagram](https://instagram.com/klaus_allan_?igshid=ZDdkNTZiNTM=)
+
+### Feel free to connect with me on my socials as listed above. 😊
+
